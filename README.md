@@ -8,7 +8,7 @@ Even though I have already mastered HTML and CSS, I am practicing the basics of 
 - Learn Basic CSS by Building Cafe Menu - **Finished**
 - Learn CSS Colors by Building a Set of Colored Markers - **Finished**
 - Learn HTML Forms by Building a Registration Form - **Finished**
-- Learn The CSS Box Model by Building a Rothko Painting
+- Learn The CSS Box Model by Building a Rothko Painting - **Finished**
 - Learn CSS Flexbox by Building a Photo Gallery
 - Learn Typography by Building a Nutrition Label
 - Learn Accessibility by Building a Quiz
