@@ -23,7 +23,7 @@ Even though I have already mastered HTML and CSS, I am practicing the basics of 
 ## Certification Project
 
 - Survey Form - **_Finished_**
-- Tribute Page
+- Tribute Page - **_Finished_**
 - Technical Documentation Page
 - Product Landing Page
 - Personal Portfolio Webpage
