@@ -10,7 +10,7 @@ Even though I have already mastered HTML and CSS, I am practicing the basics of 
 - Learn HTML Forms by Building a Registration Form - **_Finished_**
 - Learn The CSS Box Model by Building a Rothko Painting - **_Finished_**
 - Learn CSS Flexbox by Building a Photo Gallery - **_Finished_**
-- Learn Typography by Building a Nutrition Label
+- Learn Typography by Building a Nutrition Label - **_Finished_**
 - Learn Accessibility by Building a Quiz
 - Learn More About CSS Pseudo Selectors by Building A Balance Sheet
 - Learn Intermediate CSS by Building a Cat Painting
