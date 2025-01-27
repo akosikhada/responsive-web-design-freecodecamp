@@ -4,12 +4,12 @@ Even though I have already mastered HTML and CSS, I am practicing the basics of 
 
 ## Courses
 
-- Learn HTML by Building a Cat Photo App - **Finished**
-- Learn Basic CSS by Building Cafe Menu - **Finished**
-- Learn CSS Colors by Building a Set of Colored Markers - **Finished**
-- Learn HTML Forms by Building a Registration Form - **Finished**
-- Learn The CSS Box Model by Building a Rothko Painting - **Finished**
-- Learn CSS Flexbox by Building a Photo Gallery - **Finished**
+- Learn HTML by Building a Cat Photo App - **_Finished_**
+- Learn Basic CSS by Building Cafe Menu - **_Finished_**
+- Learn CSS Colors by Building a Set of Colored Markers - **_Finished_**
+- Learn HTML Forms by Building a Registration Form - **_Finished_**
+- Learn The CSS Box Model by Building a Rothko Painting - **_Finished_**
+- Learn CSS Flexbox by Building a Photo Gallery - **_Finished_**
 - Learn Typography by Building a Nutrition Label
 - Learn Accessibility by Building a Quiz
 - Learn More About CSS Pseudo Selectors by Building A Balance Sheet
@@ -22,7 +22,7 @@ Even though I have already mastered HTML and CSS, I am practicing the basics of 
 
 ## Certification Project
 
-- Survey Form - **Finished**
+- Survey Form - **_Finished_**
 - Tribute Page
 - Technical Documentation Page
 - Product Landing Page
