@@ -12,7 +12,7 @@ Even though I have already mastered HTML and CSS, I am practicing the basics of 
 - Learn CSS Flexbox by Building a Photo Gallery - **_Finished_**
 - Learn Typography by Building a Nutrition Label - **_Finished_**
 - Learn Accessibility by Building a Quiz - **_Finished_**
-- Learn More About CSS Pseudo Selectors by Building A Balance Sheet - **_In Progress_**
+- Learn More About CSS Pseudo Selectors by Building A Balance Sheet - **_Finished_**
 - Learn Intermediate CSS by Building a Cat Painting
 - Learn Responsive Web Design by Building a Piano
 - Learn CSS Variables by Building a City Skyline
