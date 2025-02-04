@@ -24,7 +24,7 @@ Even though I have already mastered HTML and CSS, I am practicing the basics of 
 
 - Survey Form - **_Finished_**
 - Tribute Page - **_Finished_**
-- Technical Documentation Page
+- Technical Documentation Page - **_Finished_**
 - Product Landing Page
 - Personal Portfolio Webpage
 
