@@ -15,7 +15,7 @@ Even though I have already mastered HTML and CSS, I am practicing the basics of 
 - Learn More About CSS Pseudo Selectors by Building A Balance Sheet - **_Finished_**
 - Learn Intermediate CSS by Building a Cat Painting - **_Finished_**
 - Learn Responsive Web Design by Building a Piano - **_Finished_**
-- Learn CSS Variables by Building a City Skyline
+- Learn CSS Variables by Building a City Skyline - **_In Progress_**
 - Learn CSS Grid by Building a Magazine
 - Learn CSS Animation by Building a Ferris Wheel
 - Learn CSS Transformation by Building a Penguin
