@@ -16,7 +16,7 @@ Even though I have already mastered HTML and CSS, I am practicing the basics of 
 - Learn Intermediate CSS by Building a Cat Painting - **_Finished_**
 - Learn Responsive Web Design by Building a Piano - **_Finished_**
 - Learn CSS Variables by Building a City Skyline - **_Finished_**
-- Learn CSS Grid by Building a Magazine - **_In Progress_**
+- Learn CSS Grid by Building a Magazine - **_Finished_**
 - Learn CSS Animation by Building a Ferris Wheel
 - Learn CSS Transformation by Building a Penguin
 
