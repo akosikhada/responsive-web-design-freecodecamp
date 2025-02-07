@@ -17,7 +17,7 @@ Even though I have already mastered HTML and CSS, I am practicing the basics of 
 - Learn Responsive Web Design by Building a Piano - **_Finished_**
 - Learn CSS Variables by Building a City Skyline - **_Finished_**
 - Learn CSS Grid by Building a Magazine - **_Finished_**
-- Learn CSS Animation by Building a Ferris Wheel
+- Learn CSS Animation by Building a Ferris Wheel - **_Finished_**
 - Learn CSS Transformation by Building a Penguin
 
 ## Certification Project
@@ -25,7 +25,7 @@ Even though I have already mastered HTML and CSS, I am practicing the basics of 
 - Survey Form - **_Finished_**
 - Tribute Page - **_Finished_**
 - Technical Documentation Page - **_Finished_**
-- Product Landing Page
+- Product Landing Page - **_In Progress_**
 - Personal Portfolio Webpage
 
 ## Acknowledgements
