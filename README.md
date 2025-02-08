@@ -18,7 +18,7 @@ Even though I have already mastered HTML and CSS, I am practicing the basics of 
 - Learn CSS Variables by Building a City Skyline - **_Finished_**
 - Learn CSS Grid by Building a Magazine - **_Finished_**
 - Learn CSS Animation by Building a Ferris Wheel - **_Finished_**
-- Learn CSS Transformation by Building a Penguin
+- Learn CSS Transformation by Building a Penguin - **_In Progress_**
 
 ## Certification Project
 
