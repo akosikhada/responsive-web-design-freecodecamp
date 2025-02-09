@@ -26,7 +26,7 @@ Even though I have already mastered HTML and CSS, I am practicing the basics of 
 - Tribute Page - **_Finished_**
 - Technical Documentation Page - **_Finished_**
 - Product Landing Page - **_Finished_**
-- Personal Portfolio Webpage
+- Personal Portfolio Webpage - **_In Progress_**
 
 ## Acknowledgements
 
